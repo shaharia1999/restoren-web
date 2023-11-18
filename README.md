@@ -1,1 +1,1 @@
-live = https://shaharia1999.github.io/restoren-web/
+live = hhttps://incandescent-pudding-40adb5.netlify.app/
